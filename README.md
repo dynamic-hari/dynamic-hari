@@ -55,16 +55,16 @@
 
 <hr/>
 
-<!-- <div align="center">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dynamic-hari/dynamic-hari/output/github-contribution-grid-snake.svg" />
 
-  <br/><br/><br/>
-</div> -->
+  <br/>
+  <hr/>
+</div> 
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<be>
+<br/>
 
 <div align=center>
     
@@ -85,24 +85,25 @@
 
 <div align="center"> 
     
-## 🏆 GitHub Trophies
+<h2> 🏆 GitHub Trophies</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=dynamic-hari&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
  <hr/>
  
-### ✍️ Random Dev Quote
+<h2>✍️ Random Dev Quote</h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
  <hr/>
  
-### 🔝 Top Contributed Repo
+<h2> 🔝 Top Contributed Repo</h2>
 
 ![](https://github-contributor-stats.vercel.app/api?username=dynamic-hari&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
  <hr/>
  
-### 😂 Random Dev Meme
+<h2>😂 Random Dev Meme</h2>
 
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
