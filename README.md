@@ -21,6 +21,7 @@
  </div>
 
 <div align="center"> 
+    
   <a href="mailto:kshariharan20b@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -58,16 +59,21 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dynamic-hari/dynamic-hari/output/github-contribution-grid-snake.svg" />
-  
+
   <br/><br/><br/>
 </div> -->
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+<be>
+
 <div align=center>
-  ![](https://github-readme-stats.vercel.app/api?username=dynamic-hari&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+    
+![](https://github-readme-stats.vercel.app/api?username=dynamic-hari&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+    
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dynamic-hari&theme=gotham&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dynamic-hari&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <!--   <img width=390 src="https://github-readme-streak-stats-dynamic-hari.vercel.app/?user=dynamic-hari&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-dynamic-hari.vercel.app/api?username=dynamic-hari&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
@@ -75,21 +81,28 @@
 <!--   [![GitHub Streak](https://streak-stats.demolab.com?user=dynamic-hari&theme=gotham&hide_border=true&exclude_days=Sun&card_width=500)](https://git.io/streak-stats) -->
 </div>
 
-<br/><br/>
-
 <hr/>
 
 <div align="center"> 
+    
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dynamic-hari&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
+ <hr/>
+ 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+ <hr/>
+ 
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=dynamic-hari&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
+ <hr/>
+ 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 </div>
